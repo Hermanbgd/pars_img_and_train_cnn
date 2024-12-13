@@ -6,7 +6,7 @@ from keras.models import load_model
 import keras.utils as image
 import numpy as np
 
-BOT_TOKEN = "6899719830:AAHC9G9JzX4JupoQkgxkkrooDwLGmJaJ06U"
+BOT_TOKEN = "your token bot"
 
 # Создаем объекты бота и диспетчера
 bot = Bot(BOT_TOKEN)
